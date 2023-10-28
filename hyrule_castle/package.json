@@ -1,0 +1,17 @@
+{
+  "name": "base_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Hyrule_castle.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ink": "^4.4.1",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.1"
+  }
+}
